@@ -7,7 +7,7 @@
 
 ### Data
 KDD'99 an Intrusion Detection Dataset
-* [Vary Detailed Analysis](https://www.ee.ryerson.ca/~bagheri/papers/cisda.pdf)
+* [Very Detailed Analysis](https://www.ee.ryerson.ca/~bagheri/papers/cisda.pdf)
 ### Benchmark
 ```
 eclf = VotingClassifier(estimators=[('DecisionTreeClassifier', DTC), ('RandomForestClassifier', RFC),('ExtraTreesClassifier',ETC)], voting='hard')
