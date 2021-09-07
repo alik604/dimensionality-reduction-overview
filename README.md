@@ -39,10 +39,10 @@ print("Acc: %0.10f" % (pred))
 * Acc: 0.9765543989
   * if dims = 2, Acc: 0.9441938134
 
-#### Feature Elimination(statistical) + "extream" feature Elimination(ML); 6 features
+#### Feature Elimination(statistical) + *extreme* feature Elimination(ML); 6 features
 * Acc: 0.9619160483  
 
-#### Feature Elimination(statistical) + extra feature Elimination(ML); 11 features
+#### Feature Elimination(statistical) + *extra( feature Elimination(ML); 11 features
 * Acc: 0.9832743041  
 
 #### Feature Elimination(statistical) + feature Elimination(ML); 18 features
